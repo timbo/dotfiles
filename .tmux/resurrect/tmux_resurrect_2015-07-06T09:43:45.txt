@@ -1,0 +1,7 @@
+pane	data-entry	0	:..ata-entry-2.0	1	:*	0	:/Users/twhittley/Projects/restrictions-data-entry-2.0	0	ruby	:foreman: master   
+pane	data-entry	0	:..ata-entry-2.0	1	:*	1	:/Users/twhittley/Projects/restrictions-data-entry-2.0	0	tail	:tail -f log/development.log
+pane	data-entry	0	:..ata-entry-2.0	1	:*	2	:/Users/twhittley/Projects/restrictions-data-entry-2.0	1	zsh	:
+pane	data-entry	1	:vim	0	:-	0	:/Users/twhittley/Projects/restrictions-data-entry-2.0	1	vim	:vim .
+window	data-entry	0	1	:*	cb3f,319x80,0,0{159x80,0,0[159x40,0,0,1,159x39,0,41,5],159x80,160,0,4}
+window	data-entry	1	0	:-	b783,319x80,0,0,6
+state	data-entry	

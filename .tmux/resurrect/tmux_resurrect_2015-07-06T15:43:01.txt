@@ -1,0 +1,9 @@
+pane	data-entry	0	:rails	1	:*	0	:/Users/twhittley/Projects/restrictions-data-entry-2.0	0	ruby	:foreman: master   
+pane	data-entry	0	:rails	1	:*	1	:/Users/twhittley/Projects/restrictions-data-entry-2.0	0	tail	:tail -f log/development.log
+pane	data-entry	0	:rails	1	:*	2	:/Users/twhittley/Projects/restrictions-data-entry-2.0	1	ruby	:/Users/twhittley/.rvm/rubies/ruby-2.1.3/bin/ruby bin/rails c
+pane	data-entry	1	:vim	0	:-	0	:/Users/twhittley/Projects/restrictions-data-entry-2.0	1	vim	:vim .
+pane	data-entry	2	:htop	0	: 	0	:/Users/twhittley/Projects/restrictions-data-entry-2.0	1	htop	:htop
+window	data-entry	0	1	:*	ebc0,318x80,0,0{159x80,0,0[159x40,0,0,1,159x39,0,41,12],158x80,160,0,11}
+window	data-entry	1	0	:-	b703,318x80,0,0,6
+window	data-entry	2	0	: 	b704,318x80,0,0,7
+state	data-entry	
